@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Environment & secrets
+.env
+*.local
+
+# Build outputs
+frontend/build/
+frontend/dist/
+*.log
